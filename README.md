@@ -5,7 +5,7 @@ and additional layers to create a responsive and visually appealing design.
 
 ## Live Demo
 
-Check out the live demo [here](https://frontend-dev-bootcamp.netlify.app) to see the project in action!
+Check out the live demo [here](https://frontend-dev-landing-page.netlify.app/) to see the project in action!
 
 ## Features
 Responsive Design: Utilizes Bootstrap's grid system for responsiveness across various screen sizes.
